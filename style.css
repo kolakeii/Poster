@@ -1,0 +1,55 @@
+main {
+    font-family: Verdana;
+	color: rgb(255, 255, 255);
+}
+
+.top-bar {
+	
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+    margin-left: 2%;
+}
+
+.sitename {
+    font-size: 200%;
+    display:inline-block;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+body {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-image: url('atom.gif');
+	background-color: #cccccc;
+  }
+
+
+/*Links Styles*/
+div a:link { color: rgb(255, 255, 255); }
+div a:visited { color: rgb(255, 255, 255); }
+div a:hover { color: rgb(255, 255, 255); }
+div a:active { color: rgb(255, 255, 255); }
+
+/*Title Styles*/
+.title-section {
+    text-align: center;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-bottom: 7%;
+    margin-top: 5%;
+}
+
+.title-text {
+    font-size: 500%;
+}
+.title-section a {
+    font-size: 75%;
+}
+
+h2 {
+    font-weight: normal;
+    margin-left: 2%;
+}
